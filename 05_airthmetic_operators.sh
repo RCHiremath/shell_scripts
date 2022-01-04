@@ -34,3 +34,7 @@ let rem=$num1%$num2 # we are using let command here
 echo "Remainder when $num1 is divided by $num2 is $rem"
 echo "$num1 and $num2 are equal to each other $(($num1 == $num2))"
 echo "$num1 and $num2 are not equal to each other $(($num1 != $num2))"
+<<<<<<< HEAD
+=======
+#End of arithmetic operations. Took too long as shell script syntax is bit crazy :-)
+>>>>>>> 109fd55 (Commiting change made)
